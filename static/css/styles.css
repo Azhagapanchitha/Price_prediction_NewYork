@@ -1,0 +1,32 @@
+body {
+    background-image: url('ny1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+.card{
+    margin: 30px;
+    position: relative;
+    background: rgba(225,225,225,.2);
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
+
+.card h5 {
+    margin: 0 0 20px;
+    padding: 0;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #000000;
+}
